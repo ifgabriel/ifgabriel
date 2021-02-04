@@ -6,7 +6,6 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML, CSS, JavaScript, PHP, MySQL, C, Python, React</strong>
   🤹 Skills: <strong>HTML, CSS, JavaScript, PHP, MySQL, C, Python, React</strong>
 </p>
 
