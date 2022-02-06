@@ -2,7 +2,7 @@
 
 ##### Enthusiast of using creativity and innovation in the development of solutions. I have more than 4 years of experience in software development and today my work is focused on front-end. I have experience using TypeScript, JavaScript, HTML, CSS, React and React Native.
 
-<div style="display: inline_flex">
+<div align="center">
   <a href="https://github.com/ifgabriel">
   <img 
     height="180em"
