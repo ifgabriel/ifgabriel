@@ -1,19 +1,26 @@
-### Hello World! 👋
+## Hello World! 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<p align="left"> 
-  Sou estudante do curso de Sistemas de Informação do Centro Universitário de Patos de Minas - UNIPAM.
-</p>
+### Enthusiast of using creativity and innovation in the development of solutions. I have more than 4 years of experience in software development and today my work is focused on front-end. I have experience using TypeScript, JavaScript, HTML, CSS, React and React Native.
 
-<p align="left">
-  🤹 Skills: <strong>HTML, CSS, JavaScript, PHP, MySQL, C, Python, React</strong>
-</p>
-
-<p align="left">
-  💌 Contato: ⤵️
-</p>
-<p align="left">
-  <a href="mailto:gabrielmp@unipam.edu.br" alt="email">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox" /></a><br>
-    <a href="https://www.linkedin.com/in/gabriel-miranda-da-penha-1589a51b0" alt="email">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-arthur-74b0b91a2/" /><br>
+<div align="center">
+  <a href="https://github.com/ifgabriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ifgabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifgabriel&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:gabrielmp@unipam.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-miranda-da-penha-1589a51b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/ifgabriel/ifgabriel/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
