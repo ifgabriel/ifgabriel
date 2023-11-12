@@ -4,13 +4,6 @@ Enthusiast of using creativity and innovation in the development of solutions. I
 
 <br />
 <br />
- 
-- 🔭 I'm currently looking for new opportunities working in frontend web
-- 🌱 I'm learning about team management, backend, devops
-- 😄 Pronouns: Him/His
-
-<br />
-<br />
 
 **Languages and Tools 🚀**
 
